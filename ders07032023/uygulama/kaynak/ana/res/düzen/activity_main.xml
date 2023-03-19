@@ -159,7 +159,7 @@
         android:id="@+id/buttonClear"
         android:layout_width="141dp"
         android:layout_height="wrap_content"
-        android:layout_gravity="end"
+        android:layout_gravity="end"   // clear butonunu yeri buradan değiştirilebilir sağ veya sola yaşanabilir burada en sona ayarlandı.
         android:text="Clear" /></LinearLayout>
 
 
